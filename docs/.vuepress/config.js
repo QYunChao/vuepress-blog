@@ -12,7 +12,7 @@ module.exports = {
     sidebar,
     lastUpdated: "最后更新时间",
     docsDir: "docs",
-    repo: "https://github.com/QYunChao/vuepress-blog",
+    repo: "https://github.com/qyunchao/vuepress-blog",
   },
   extraWatchFiles: ["./nav.js", "./sidebar.js"],
   markdown: {
